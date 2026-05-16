@@ -1,6 +1,6 @@
 <img width="566" height="441" alt="Image" src="https://github.com/user-attachments/assets/78778b38-fba5-4184-bf4c-a53d623a6c7c" />
 <p align="center"> he/any, minor </p>
-<img width="400" height="47" alt="Image" src="https://github.com/user-attachments/assets/f8b44d63-e053-4ff1-9a48-62e98451895d" />
+<img width="1280" height="213" alt="Image" src="https://github.com/user-attachments/assets/6d5d9aba-5a0c-40bd-960c-eb62023401ce" />
 <p align="center">"Here I was, minding my own business, enjoying my second amendment rights, and you people have to freak out on me." </p>
 <img width="97" height="57" alt="Image" src="https://github.com/user-attachments/assets/57a6b5a2-b654-40bf-bc31-aa3b0e06813f" />
 <img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/7e590c1d-aa18-4b27-aed8-0bd204e558e3" />
