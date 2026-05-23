@@ -2,7 +2,7 @@
 <p align="center"> he/any, minor </p>
 <img width="450" height="40" alt="Image" src="https://github.com/user-attachments/assets/ba6ce737-af83-4c49-8978-a4c32a25debd" />
 <p align="center">"The amount of hell we've raised, we're owed some back, you know?" </p>
-<img width="97" height="57" alt="Image" src="https://github.com/user-attachments/assets/57a6b5a2-b654-40bf-bc31-aa3b0e06813f" />
+<img width="198" height="112" alt="Image" src="https://github.com/user-attachments/assets/5c167f9f-3507-4f29-8edf-7402a0a65dcd" />
 <img width="99" height="55" alt="Image" src="https://github.com/user-attachments/assets/0200a878-6abd-4e80-aafc-ffcc63429493" />
 <img width="96" height="56" alt="Image" src="https://github.com/user-attachments/assets/3c6e0c97-8758-419d-b096-f646607d2483" />
 <img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/bfebad23-c778-4c3a-8280-c254bbb647f4" />
