@@ -1,6 +1,6 @@
 <img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/1673779d-a1c0-4397-aa07-c84c9875251b" />
 <p align="center"> he/any, minor </p>
-<img width="400" height="47" alt="Image" src="https://github.com/user-attachments/assets/02652a74-373e-4ca0-99b6-9ff2f471ce60" />
+<img width="450" height="40" alt="Image" src="https://github.com/user-attachments/assets/ba6ce737-af83-4c49-8978-a4c32a25debd" />
 <p align="center">"The amount of hell we've raised, we're owed some back, you know?" </p>
 <img width="97" height="57" alt="Image" src="https://github.com/user-attachments/assets/57a6b5a2-b654-40bf-bc31-aa3b0e06813f" />
 <img width="99" height="55" alt="Image" src="https://github.com/user-attachments/assets/0200a878-6abd-4e80-aafc-ffcc63429493" />
