@@ -1,4 +1,4 @@
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/9487224d-d288-4717-a6d8-bd777f318929" />
+<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/b8e95ae0-1fe7-4360-a4b7-8540c10701d9" />
 <p align="center"> he/any, minor </p>
 <img width="400" height="47" alt="Image" src="https://github.com/user-attachments/assets/02652a74-373e-4ca0-99b6-9ff2f471ce60" />
 <p align="center">"Here I was, minding my own business, enjoying my second amendment rights, and you people have to freak out on me." </p>
