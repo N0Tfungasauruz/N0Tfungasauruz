@@ -1,4 +1,4 @@
-<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/1673779d-a1c0-4397-aa07-c84c9875251b" />
+<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/e73f5876-00f0-4726-a61b-6e087b9913c0" />
 <p align="center"> he/any, minor </p>
 <img width="450" height="40" alt="Image" src="https://github.com/user-attachments/assets/ba6ce737-af83-4c49-8978-a4c32a25debd" />
 <p align="center">"The amount of hell we've raised, we're owed some back, you know?" </p>
