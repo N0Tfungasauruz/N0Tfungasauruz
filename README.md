@@ -1,7 +1,7 @@
 <img width="736" height="525" alt="Image" src="https://github.com/user-attachments/assets/a3d72cbd-80ab-4d42-8ff3-babc99d0c513" />
 <p align="center"> he/any, minor </p>
 <img width="450" height="40" alt="Image" src="https://github.com/user-attachments/assets/ba6ce737-af83-4c49-8978-a4c32a25debd" />
-<p align="center">"Ayy, I love it when you talk to me so TOUGH and MANLY.." </p>
+<p align="center">"I'm just playin' with my knife, Sheep F*cker.. Just playin' with my knife." </p>
 <img width="99" height="55" alt="Image" src="https://github.com/user-attachments/assets/0200a878-6abd-4e80-aafc-ffcc63429493" />
 <img width="96" height="56" alt="Image" src="https://github.com/user-attachments/assets/3c6e0c97-8758-419d-b096-f646607d2483" />
 
