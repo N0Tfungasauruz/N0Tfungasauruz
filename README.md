@@ -1,4 +1,4 @@
-<img width="735" height="406" alt="Image" src="https://github.com/user-attachments/assets/b599dca1-4739-490a-bdb8-8008e7fc93b1" />
+<img width="540" height="400" alt="Image" src="https://github.com/user-attachments/assets/50a10efa-57b1-48c5-84f1-2458a6ffd099" />
 <p align="center"> he/any, minor </p>
 <img width="450" height="40" alt="Image" src="https://github.com/user-attachments/assets/ba6ce737-af83-4c49-8978-a4c32a25debd" />
 <p align="center">"I'm just playin' with my knife, Sheep F*cker.. Just playin' with my knife." </p>
