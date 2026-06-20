@@ -1,6 +1,6 @@
 <img width="540" height="400" alt="Image" src="https://github.com/user-attachments/assets/50a10efa-57b1-48c5-84f1-2458a6ffd099" />
 <p align="center"> he/any, minor </p>
-<img width="450" height="40" alt="Image" src="https://github.com/user-attachments/assets/ba6ce737-af83-4c49-8978-a4c32a25debd" />
+<img width="2048" height="207" alt="Image" src="https://github.com/user-attachments/assets/bb43b999-39f4-4235-b35e-4aaba32ecb71" />
 <p align="center">"I'm just playin' with my knife, Sheep F*cker.. Just playin' with my knife." </p>
 <img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/a5cb5f66-4166-4f03-90bf-274a378b7f99" />
 <img width="96" height="56" alt="Image" src="https://github.com/user-attachments/assets/3c6e0c97-8758-419d-b096-f646607d2483" />
