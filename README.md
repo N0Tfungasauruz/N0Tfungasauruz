@@ -4,3 +4,4 @@
 <p align="center">" Life is full of pain, but there is also love and beauty. " </p>
 <img width="700" height="467" alt="Image" src="https://github.com/user-attachments/assets/a9f7e71e-e7d5-485d-9850-e5a6a18088b7" />
 <img width="1280" height="409" alt="Image" src="https://github.com/user-attachments/assets/a89ae718-c79f-4e2e-ae7f-6e04e6b43074" />
+${{\color{orange}{\textsf{ gay}}}}$
