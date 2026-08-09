@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://github.com/user-attachments/assets/5990b6a8-909c-4802-b745-f69b68203dc0" style="border: none; display: block; margin: 0;" height="80"> </p>
 <br>
-<p align="center"> ${ \color{#796652} hi \space this \space is  \space a  \space test \space  quote  \space for \space  you \space  to \space  put  \space here{}}$
+<p align="center"> ${ \color{#796652} su \space rostro \space es  \space de  \space alegría, \space  el  \space mío \space  es \space  de \space  agonía{}}$
   <br>
 <p align="center"> 
   <a href="https://www.youtube.com/shorts/aSL_XYrOGEk">
