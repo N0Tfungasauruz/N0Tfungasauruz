@@ -1,1 +1,1 @@
-<p align="center"> ${ \color{#3189D6} future \space problem, big fat wip bro {}}$
+<img width="1978" height="444" alt="Image" src="https://github.com/user-attachments/assets/0689da52-e9da-4fa6-8d8b-10c3f0f49705" />
