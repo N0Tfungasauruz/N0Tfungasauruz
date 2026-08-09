@@ -1,11 +1,11 @@
 <p align="center"> <img src="https://github.com/user-attachments/assets/5990b6a8-909c-4802-b745-f69b68203dc0" style="border: none; display: block; margin: 0;" height="80"> </p>
 <br>
-<p align="center"> ${ \color{#3189D6} su \space rostro \space es  \space de  \space alegría, \space  el  \space mío \space  es \space  de \space  agonía{}}$
+<p align="center"> ${ \color{#44B2D4} a \space dog \space bites  \space bones  \space like \space  a  \space daughter \space  bites \space  her \space  words{}}$
   <br>
 <p align="center"> 
   <a href="https://www.youtube.com/shorts/aSL_XYrOGEk">
   <img src="https://github.com/user-attachments/assets/2e5ce6d7-ab96-4f74-bf5c-7faa9278e445" style="border: none; display: block; margin: 0;" height="250"> </p>
-  <p align="center"> ${ \color{#796652} here goes your name, age, pronouns and whatever else you might need to say, it should be brief{}}$
+  <p align="center"> ${ \color{#70BD5B} fight  \space like  \space wolves, \space  but  \space flee \space  like \space  birds. \space from \space  the \space \space same \space  pack \space but, \space  from  \space rivaling \space  herds. \space{}}$
 <br>
 <br>
 <p align="center"><a href="https://wowzaonline.straw.page/" target="_blank"><img src="https://github.com/user-attachments/assets/d709d6ff-d772-4fce-8dfe-3f3752da469e" width="135" style="margin-right: 80;"></a><a href="https://pronouns.cc/@fungasaurus" target="_blank"><img src="https://github.com/user-attachments/assets/9c9f6366-fa72-476c-9c22-9073e6decbb8"  width="135"></a></p>
