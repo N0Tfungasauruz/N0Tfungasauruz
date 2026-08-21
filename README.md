@@ -3,7 +3,7 @@
 <p align="center"> ${ \color{#44B2D4} a \space dog \space bites  \space bones  \space like \space  a  \space daughter \space  bites \space  her \space  words{}}$
   <br>
 <p align="center"> 
-  <a href="https://www.youtube.com/shorts/aSL_XYrOGEk">
+  <a href="https://youtu.be/eGbnyi5hYIQ?si=ejC11ooaKUUPT_Y5">
   <img src="https://github.com/user-attachments/assets/2e5ce6d7-ab96-4f74-bf5c-7faa9278e445" style="border: none; display: block; margin: 0;" height="250"> </p>
   <p align="center"> ${ \color{#21C2B2} fight  \space like  \space wolves, \space  but  \space flee \space  like \space  birds. \space from \space  the \space \space same \space  pack \space but, \space  from  \space rivaling \space  herds. \space{}}$
 <br>
